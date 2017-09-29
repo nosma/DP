@@ -1,4 +1,4 @@
-package com.design.patterns.structurual.adapter;
+package com.design.patterns.structural.adapter;
 
 interface Shape {
   void draw(int x, int y, int z, int j);
